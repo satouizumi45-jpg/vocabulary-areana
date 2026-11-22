@@ -1,0 +1,19 @@
+{
+  "name": "VOCAB ARENA | 受験・英検 リアルタイム単語バトル",
+  "short_name": "VOCAB ARENA",
+  "description": "早慶・MARCH・共通テスト・英検3級〜1級対応のリアルタイム単語バトルアプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070B14",
+  "theme_color": "#070B14",
+  "icons": [
+    {
+      "src": "icon.png?v=1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
